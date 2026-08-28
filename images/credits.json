@@ -1,74 +1,62 @@
 {
- "2012-hatch": {
-  "title": "File:Bald Eagle Chick, NPSPhoto, Lori Oberhofner (9101506540).jpg",
-  "license": "Public domain",
-  "artist": "Everglades NPS from Homestead, Florida, United States",
-  "page": "https://commons.wikimedia.org/wiki/File:Bald_Eagle_Chick,_NPSPhoto,_Lori_Oberhofner_(9101506540).jpg",
-  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bald_Eagle_Chick%2C_NPSPhoto%2C_Lori_Oberhofner_%289101506540%29.jpg/1920px-Bald_Eagle_Chick%2C_NPSPhoto%2C_Lori_Oberhofner_%289101506540%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
- },
- "2016-nest": {
-  "title": "File:Bald Eagle Nest (26245879846).jpg",
-  "license": "Public domain",
-  "artist": "U.S. Fish and Wildlife Service - Midwest Region",
-  "page": "https://commons.wikimedia.org/wiki/File:Bald_Eagle_Nest_(26245879846).jpg",
-  "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/67/Bald_Eagle_Nest_%2826245879846%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
- },
- "2026-farewell": {
-  "title": "File:Bald Eagle Soaring (51022534546).jpg",
-  "license": "Public domain",
-  "artist": "USFWS Mountain Prairie",
-  "page": "https://commons.wikimedia.org/wiki/File:Bald_Eagle_Soaring_(51022534546).jpg",
-  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bald_Eagle_Soaring_%2851022534546%29.jpg/1920px-Bald_Eagle_Soaring_%2851022534546%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
- },
- "2026-grounded": {
-  "title": "File:Bald Eagle on the Ground (13883187974).jpg",
-  "license": "CC BY-SA 2.0",
-  "artist": "Eric Kilby from Somerville, MA, USA",
-  "page": "https://commons.wikimedia.org/wiki/File:Bald_Eagle_on_the_Ground_(13883187974).jpg",
-  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bald_Eagle_on_the_Ground_%2813883187974%29.jpg/1920px-Bald_Eagle_on_the_Ground_%2813883187974%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
- },
- "2025-feeding": {
-  "title": "File:Bald eagle feeding eaglets at Seedskadee National Wildlife Refuge (39930814005).jpg",
-  "license": "Public domain",
-  "artist": "USFWS Mountain-Prairie",
-  "page": "https://commons.wikimedia.org/wiki/File:Bald_eagle_feeding_eaglets_at_Seedskadee_National_Wildlife_Refuge_(39930814005).jpg",
-  "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bald_eagle_feeding_eaglets_at_Seedskadee_National_Wildlife_Refuge_%2839930814005%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
- },
- "2018-pair": {
-  "title": "File:Bald eagles (27233448939).jpg",
-  "license": "Public domain",
-  "artist": "San Bernardino Nat'l Forest",
-  "page": "https://commons.wikimedia.org/wiki/File:Bald_eagles_(27233448939).jpg",
-  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bald_eagles_%2827233448939%29.jpg/1920px-Bald_eagles_%2827233448939%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
- },
- "jackie-2019-04-landing": {
-  "date": "2019-04-27",
-  "artist": "Trisha Dale Green",
-  "license": "Used with permission",
-  "subject": "Jackie"
- },
- "jackie-2019-12-snow": {
-  "date": "2019-12-24",
-  "artist": "Trisha Dale Green",
-  "license": "Used with permission",
-  "subject": "Jackie"
- },
- "jackie-2023-06-flight": {
-  "date": "2023-06-01",
-  "artist": "Trisha Dale Green",
-  "license": "Used with permission",
-  "subject": "Jackie"
- },
  "jackie-2024-11-soaring": {
   "date": "2024-11-04",
   "artist": "Trisha Dale Green",
   "license": "Used with permission",
   "subject": "Jackie"
  },
- "jackie-2026-05-soaring": {
-  "date": "2026-05-28",
+ "nest-tree-2026-05": {
+  "date": "2026-05-01",
   "artist": "Trisha Dale Green",
   "license": "Used with permission",
-  "subject": "Jackie"
+  "subject": "The nest tree — Jackie, Shadow, and a fish delivery",
+  "source_file": "NestJackieFishShadow5-1-26u.jpg"
+ },
+ "mr-b-and-jackie": {
+  "artist": "Trisha Dale Green",
+  "license": "Used with permission",
+  "subject": "Mr. B and Jackie",
+  "source_file": "MrB&JackieTDG.jpg"
+ },
+ "simba-2019-08": {
+  "date": "2019-08-06",
+  "artist": "Trisha Dale Green",
+  "license": "Used with permission",
+  "subject": "Simba",
+  "source_file": "simba8-6-19.jpg"
+ },
+ "spirit": {
+  "artist": "Owen Phairis",
+  "license": "Used with permission",
+  "subject": "Spirit",
+  "source_file": "Spirit4x6op.jpg"
+ },
+ "jackie-2024-02-snow": {
+  "date": "2024-02",
+  "artist": "Big Bear nest camera",
+  "license": "Nest cam still",
+  "subject": "Jackie covered in snow on the nest",
+  "source_file": "JackieFebruaryCoveredinSnow2024.jpg"
+ },
+ "misty-sunny-gizmo-2025-03": {
+  "date": "2025-03",
+  "artist": "Big Bear nest camera",
+  "license": "Nest cam still",
+  "subject": "Jackie feeding Misty, Sunny, and Gizmo",
+  "source_file": "MistyGizmoSunny3-25.jpg"
+ },
+ "luna-and-sandy-2026-07": {
+  "date": "2026-07-13",
+  "artist": "Trisha Dale Green",
+  "license": "Used with permission",
+  "subject": "Luna and Sandy",
+  "source_file": "Luna&Sandy7-13-26.jpg"
+ },
+ "jackie-2026-07-grounded": {
+  "date": "2026-07-16",
+  "artist": "Trisha Dale Green",
+  "license": "Used with permission",
+  "subject": "Jackie on the ground, unable to fly",
+  "source_file": "Jackie7-16-26c.jpg"
  }
 }
