@@ -7,6 +7,7 @@ Source for [jackiememorialsite.com](https://jackiememorialsite.com), a memorial 
 - Who she was — the nest cam, her mate Shadow, and the eight seasons they raised eaglets together.
 - A timeline of her life in the Jeffrey pine: Mr. B, Stormy and BBB, Simba and Cookie, Spirit, the 2023 blizzard vigil, Misty/Sunny/Gizmo, Luna and Sandy, and her final weeks.
 - "In her honor" — a few facts worth remembering, and the memorial in Fawnskin.
+- The memorial potpourri — jars of the dried flowers left for her, $30 including shipping, at the park or by donation.
 - Donation and support links.
 
 ## Repo layout
